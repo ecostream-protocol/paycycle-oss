@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="PayCycle: recurring payments on Stellar">
+  <rect width="1200" height="320" fill="#FAF6EE"/>
+  <rect x="8" y="8" width="1184" height="304" rx="18" fill="none" stroke="#1B1A17" stroke-width="4"/>
+  <g transform="translate(90 80)">
+    <circle cx="80" cy="80" r="64" fill="none" stroke="#1B1A17" stroke-width="14"/>
+    <path d="M80 16 A64 64 0 1 1 16 80" fill="none" stroke="#E8590C" stroke-width="14" stroke-linecap="round"/>
+    <circle cx="80" cy="80" r="16" fill="#1B1A17"/>
+  </g>
+  <text x="300" y="165" font-family="Georgia, serif" font-size="96" font-weight="700" fill="#1B1A17">PayCycle</text>
+  <text x="304" y="222" font-family="Helvetica, Arial, sans-serif" font-size="32" fill="#1B1A17" fill-opacity="0.7">Recurring payments on Stellar Soroban. Non-custodial.</text>
+</svg>
